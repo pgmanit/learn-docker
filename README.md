@@ -27,3 +27,8 @@ Your server should be up now !
 
 4. ```docker rm -f <the-container-id>```
    -f is force flag. This command stops and removes the container.
+
+<br />
+
+### References
+* [Getting Started with Docker](https://docs.docker.com/get-started/overview/)
