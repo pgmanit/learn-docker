@@ -13,7 +13,7 @@ It's a simple ToDo list application built on node.js and deployed using docker
 
 
 After a few seconds, open your web browser to [http://localhost:3000](http://localhost:3000)
-Your server should be up now !
+<br />Your server should be up now !
 
 ## Important commands:
 1. ```docker ps```
